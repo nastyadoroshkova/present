@@ -1,0 +1,98 @@
+{
+  "user": [
+	{
+	  "id":1,
+	  "name": "User",
+	  "surname": "Surname",
+	  "birthday": "10.11.1995"
+	},
+	{
+	  "id":2,
+	  "name": "User 2",
+	  "surname": "Surname 2",
+	  "birthday": "10.01.1996"
+	},
+	{
+	  "id":3,
+	  "name": "User 3",
+	  "surname": "Surname 3",
+	  "birthday": "18.08.1990"
+	},
+	{
+	  "id":4,
+	  "name": "User 4",
+	  "surname": "Surname 4",
+	  "birthday": "14.04.1994"
+	},
+	{
+	  "id":5,
+	  "name": "User 5",
+	  "surname": "Surname 3",
+	  "birthday": "15.05.1995"
+	},
+	{
+	  "id":6,
+	  "name": "User 6",
+	  "surname": "Surname 6",
+	  "birthday": "16.06.1996"
+	}
+  ],
+  "category" : [
+    {
+	  "id": 1,
+	  "name": "New Year"
+    },
+	{
+	  "id": 2,
+	  "name": "8 March"
+    },
+	{
+	  "id": 3,
+	  "name": "23 February"
+    },
+	{
+	  "id": 4,
+	  "name": "Other"
+    },
+  ],
+  "friend": [
+	{
+	  "id_1": 1,
+	  "id_2": 2
+	},
+	{
+	  "id_1": 1,
+	  "id_2": 3
+	},
+	{
+	  "id_1": 1,
+	  "id_2": 4
+	},
+   ] ,
+   "present": [
+	{
+	  "id": 1,
+	  "category": 1,
+	  "date": "10.11.2018",
+	  "rating": 8,
+	  "source": "null",
+	  "user_id": 1
+	},
+	{
+	  "id": 2,
+	  "category": 1,
+	  "date": "10.11.2018",
+	  "rating": 9,
+	  "source": "null",
+	  "user_id": 1
+	},
+	{
+	  "id": 3,
+	  "category": 2,
+	  "date": "10.11.2018",
+	  "rating": 9,
+	  "source": "null",
+	  "user_id": 1
+	},
+   ]
+}
